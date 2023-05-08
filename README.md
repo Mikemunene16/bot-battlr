@@ -1,3 +1,16 @@
+# Project: Bot Battlr
+
+#### The app displays bots as well as other functionalities
+
+#### Author: **{Mike Munene}**
+
+## Project Description
+
+The app displays bots as well as other functionalities
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
