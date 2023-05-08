@@ -32,7 +32,7 @@ function Bots() {
         handleClick={removeBot}
         handleDelete={deleteBot}
       />
-      <BotsCollection  className="bot-collection" 
+      <BotsCollection  className="bots-collection" 
         bots={bots} 
         handleClick={updateBot} 
         handleDelete={deleteBot} 

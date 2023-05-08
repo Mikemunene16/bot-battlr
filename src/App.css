@@ -1,3 +1,34 @@
+/* App styles */
+
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 32px;
+}
+
+.app h1 {
+  text-align: center;
+}
+
+.app-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 32px;
+}
+
+.app-nav a {
+  color: #6c757d;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.2s;
+}
+
+.app-nav a:hover {
+  color: #343a40;
+}
+
+
 .App {
   text-align: center;
 }
@@ -68,9 +99,9 @@
   margin-top: auto;
 }
 
-/* BotCollection styles */
+/* BotsCollection Styles*/
 
-.bot-collection {
+.bots-collection {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -78,9 +109,9 @@
   margin-top: 32px;
 }
 
-/* YourBotArmy styles */
+/* BotArmy styles */
 
-.your-bot-army {
+.bot-army {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -88,37 +119,8 @@
   margin-top: 32px;
 }
 
-.your-bot-army h2 {
+.bot-army h2 {
   text-align: center;
   margin-top: 0;
 }
 
-/* App styles */
-
-.app {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 32px;
-}
-
-.app h1 {
-  text-align: center;
-}
-
-.app-nav {
-  display: flex;
-  justify-content: space-between;
-  margin-bottom: 32px;
-}
-
-.app-nav a {
-  color: #6c757d;
-  text-decoration: none;
-  font-size: 18px;
-  font-weight: bold;
-  transition: color 0.2s;
-}
-
-.app-nav a:hover {
-  color: #343a40;
-}
